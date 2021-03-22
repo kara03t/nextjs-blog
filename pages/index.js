@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello, I'm Tomoki. I'm a software engineer and translator.</p>
+        <p>Hello, I'm から. I'm a software engineer and translator.</p>
         <p>
           You can contact me on{" "}
           <a href="https://twitter.com/kara03t">Twitter</a>.
